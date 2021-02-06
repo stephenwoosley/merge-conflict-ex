@@ -1,5 +1,5 @@
 # merge-conflict-ex
 
-## header created on my machine
+## header created on GH
 
-this is some stuff from my local machine.
+just some text added on the web in GH
